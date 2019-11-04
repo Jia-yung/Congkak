@@ -12,6 +12,8 @@ Make sure to have the java compiler added to your path.
 
 ## Game Rules
 
+![Gameboard](https://github.com/Jia-yung/Mancala/blob/master/images/gameboard.png)
+
 Before the game start, player can choose the size of the board in multiple of two and decided how many seed in each hole to begin with. 
 
 The moves that the user can select are the numbers below the holes(1-10). If its player 1 turn, the player has to choose a move on the bottom whereas player 2 chooses a move on the top. 
